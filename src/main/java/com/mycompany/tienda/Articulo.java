@@ -20,7 +20,7 @@ public class Articulo {
 		// TODO Auto-generated method stub
 		Scanner entrada = new Scanner(System.in);
 		Scanner entrada2 = new Scanner(System.in);
-		
+		//Hola.
 		int opcion = -1;
 		
 		ArrayList<Articulo> catalogo = new ArrayList<Articulo>();
